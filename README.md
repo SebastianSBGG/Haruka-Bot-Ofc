@@ -72,5 +72,5 @@
 ### **`👑 Propietario`**
 <a href="https://github.com/SebastianSBGGy"><img src="https://files.catbox.moe/irbmcz.png" width="130" height="130" alt="ˢᵉᵇᵃˢᵗⁱᵃⁿ"/></a>
 
-### **`🤝 Colaborador`**
+### **`👑 Propietario**
 <a href="https://github.com/M3rcenario28"><img src="https://files.catbox.moe/99xn6s.jpg" width="130" height="130" alt="ᵈᵃᵛⁱᵈ"/></a>
