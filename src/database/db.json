@@ -1,0 +1,25 @@
+{
+  "links": {
+    "video": [
+      "https://files.catbox.moe/ef5j84.mp4"
+    ],
+    "imagen": [
+      "https://files.catbox.moe/8xhnpl.png"
+    ]
+  },
+  "mainBot": {
+    "nombre": "𝙷𝙰𝚁𝚄𝙺𝙰 𝙱𝙾𝚃 𝙾𝙵𝙲"
+  },
+  "subBots": {
+    "1234567890": {
+      "imagen": "https://files.catbox.moe/ysucs5.jpg",
+      "video": "https://files.catbox.moe/vizse3.mp4",
+      "nombre": "Sub-Bot-1"
+    },
+    "584243732338": {
+      "imagen": "https://files.catbox.moe/9pi4ot.jpg",
+      "video": "https://files.catbox.moe/t3aj4h.mp4",
+      "nombre": "𝙷𝙸𝚃𝙾𝚁𝙸 𝙱𝙾𝚃 𝙾𝙵𝙲"
+    }
+  }
+}
