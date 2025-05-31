@@ -47,8 +47,8 @@
 <details>
 <summary><b> 💭 Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https://wa.me/56985230452)
-* Colaborador Principal: [`Aquí`](https://wa.me/522219831926)
+* Sebas: [`Aquí`](https://wa.me/56985230452)
+* David: [`Aquí`](https://wa.me/522219831926)
 * Correo: [`Aquí`](seba306053@gmail.com)
 
 </details>
