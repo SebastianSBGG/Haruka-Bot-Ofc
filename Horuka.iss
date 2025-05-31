@@ -1,6 +1,6 @@
 
 #define MyAppName "Haruka-Bot-Ofc"
-#define MyAppVersion "2.2.0"
+#define MyAppVersion "3.6.0"
 #define MyAppPublisher "SebastianSBGG"
 #define MyAppExeName "Horuka.exe"
 
