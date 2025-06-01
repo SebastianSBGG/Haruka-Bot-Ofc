@@ -10,7 +10,7 @@ const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
  * Llama a la API de brat y retorna un Buffer con los datos de la imagen.
  */
 const fetchSticker = async (text, attempt = 1) => {
-  const url = 'https://brat.caliphdev.com/api/brat';
+  const url = 'https://delirius-apiofc.vercel.app/canvas/brat';
   try {
     const response = await axios.get(url, {
       params: { text },
